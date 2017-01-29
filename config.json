@@ -1,0 +1,6 @@
+{
+    "from": "<Twilio phone number>",
+    "sid": "<Twilio sid>",
+    "url": "<TwiML url>",
+    "token": "<Twilio token>"
+}
